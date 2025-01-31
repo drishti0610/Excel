@@ -1,1 +1,1 @@
-Coffee shop sales file is data analysis work using excel for first 6 months of 2024.
+Data analysis using excel (Pivot tables and pivot charts)
